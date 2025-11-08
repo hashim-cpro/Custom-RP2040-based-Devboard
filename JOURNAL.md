@@ -14,3 +14,13 @@
 well i just set up the project in kicad and started the shcematics. I am done with the power decoupling part on the MCU and also wired up the USB type C and connected it to the MCU.
   
 
+## 11/8/2025 - complted the schematics  
+
+i just wired the oscillator and these quartz crystals are interesting🤔 also added memory and IO and just like that our schematics are finished! :yay
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTUyNywicHVyIjoiYmxvYl9pZCJ9fQ==--9af017b638b0ae26daabeab30730e461a50fd071/image.png)
+
+got some errors in ERC and fixed them as well
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTUyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--0c95fbe569704d69707d629689f85b4cabd38fd3/image.png)
+
+  
+
