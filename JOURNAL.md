@@ -24,3 +24,9 @@ got some errors in ERC and fixed them as well
 
   
 
+## 11/9/2025 - Placed the PCB parts  
+
+So changed a couple of parts in the schematics and assigned the footprints and placed the main components with 0.00 mm symmetry. Didin't placed the decoupling capacitots yet and some resistors as well. 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--f7e222e7e7df607bf300af09c9d785c72e17e7c6/image.png)
+  
+
