@@ -30,3 +30,12 @@ So changed a couple of parts in the schematics and assigned the footprints and p
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--f7e222e7e7df607bf300af09c9d785c72e17e7c6/image.png)
   
 
+## 11/10/2025 - Started Routing the PCB  
+
+Started routing the PCB and i can say i did it pretty rough. I placed the capicitors and resistors little too close to the rp2040 which made everything tight and i also used alot of vias for this as well. 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--11fb9d63b78448443add6ab5869b687a9c9f61e3/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--645d70bdc9d668ada96c32f994a82c9546c0ce3f/image.png)
+
+  
+
