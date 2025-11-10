@@ -30,12 +30,21 @@ So changed a couple of parts in the schematics and assigned the footprints and p
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--f7e222e7e7df607bf300af09c9d785c72e17e7c6/image.png)
   
 
-## 11/10/2025 - Started Routing the PCB  
+## 11/10/2025 2 AM - Started Routing the PCB  
 
 Started routing the PCB and i can say i did it pretty rough. I placed the capicitors and resistors little too close to the rp2040 which made everything tight and i also used alot of vias for this as well. 
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--11fb9d63b78448443add6ab5869b687a9c9f61e3/image.png)
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--645d70bdc9d668ada96c32f994a82c9546c0ce3f/image.png)
+
+  
+
+## 11/10/2025 4 PM - Completed the Routiong  
+
+Completed the Routing, had to move the capacitors and some components here and there to make space for traces because i placed them to close to the MCU. Now it is almost done but there are alot of errors that i need to fix **😭**
+
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwMDEsInB1ciI6ImJsb2JfaWQifX0=--a6584c6ec50533aa407076eed37ed4d128b299d7/image.png)![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwMDIsInB1ciI6ImJsb2JfaWQifX0=--df453646c245002e7ed9063bf46435f302faf89d/image.png)
 
   
 
