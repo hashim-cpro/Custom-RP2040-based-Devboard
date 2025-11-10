@@ -48,3 +48,12 @@ Completed the Routing, had to move the capacitors and some components here and t
 
   
 
+## 11/10/2025 9 PM - Finished the PCB  
+
+So just finished up the PCB and i fixed all the errors in the DRC and now there are no errors finally :yay Most of the errors i got were thermal relief errors that i fixed by adding vias and changing some settings for the ground fillings and stuff.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwODgsInB1ciI6ImJsb2JfaWQifX0=--97064206dbe5e724a42fdf783d8defe8bf7f3ba8/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwODksInB1ciI6ImJsb2JfaWQifX0=--ec00b1892a1dbc671b9d66af5a5e0d326e8f0c1b/image.png)
+
+  
+
